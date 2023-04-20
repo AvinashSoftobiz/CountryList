@@ -1,0 +1,35 @@
+.country-list {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .country-list label {
+    margin-right: 10px;
+  }
+  
+  .country-list input[type="text"] {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .country-list ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .country-list li {
+    margin-bottom: 5px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .country-list li:hover {
+    background-color: red;
+    /* background-color: #eee; */
+  }
+  
